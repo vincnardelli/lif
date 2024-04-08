@@ -1,0 +1,5 @@
+# Local Impact Factor (LIF) Analysis for Spatial Autocorrelation
+
+Giuseppe Arbia, Vincenzo Nardelli
+
+Spatial autocorrelation measures are increasingly utilized in empirical literature for the exploratory data analysis (EDA) phase, essential for identifying spatial dependence and patterns in the phenomena being studied. These measures typically rely on the assumption that the variable under examination is normally distributed. However, this assumption is often too strong, considering that real data used in published studies frequently contain outliers. Therefore, we introduce the Local Impact Factor (LIF) measure, similar to those found in the literature on robust indicators, that accounts for both the presence of extreme values and their distinct locations on the map. This allows for the assessment of the potential impact of a perturbation in the reported value of a location, aiming to identify the most influential areas on the map. The results reveal that the most influential areas are not necessarily those with the most extreme values in the distribution, but rather those that most significantly affect the measure of spatial autocorrelation.
